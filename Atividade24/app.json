@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "Minha Turma - Pedro",
+    "slug": "atividade24-pedro",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "android": { "package": "com.pedrobernardo.atividade24" },
+    "web": { "bundler": "metro" }
+  }
+}
